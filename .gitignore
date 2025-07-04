@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Ambientes virtuais
+env/
+venv/
+.venv/
+
+# Arquivos de log e sistema
+*.log
+*.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks checkpoints (caso use)
+.ipynb_checkpoints/
+
+# Arquivos de pacotes
+*.egg-info/
+dist/
+build/
+
+# Streamlit config (opcional)
+.streamlit/secrets.toml
